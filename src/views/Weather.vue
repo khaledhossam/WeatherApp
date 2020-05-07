@@ -5,7 +5,7 @@
         <div id="instructions">
           <a> Just type city name </a>
           <br>
-          <a> make sure you spelling correctly  </a>
+          <a> make sure you spelling correctly.  </a>
         </div>
 
     <main>
